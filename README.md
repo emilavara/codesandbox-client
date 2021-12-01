@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/vWFbw3h.png" alt="Sublime's custom image"/>
+  <img src="https://i.imgur.com/vWFbw3h.png" height="300px" alt="Sublime's custom image"/>
 </p>
 
 # CodeSandbox Desktop Client
