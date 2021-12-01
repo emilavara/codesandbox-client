@@ -3,7 +3,8 @@
 </p>
 
 # CodeSandbox Desktop Client
-This is an unofficial CodeSandbox desktop client created through electron.js.
+
+codesandbox-client is an unofficial <a href="https://electronjs.org">Electron</a>-based <a href="https://codesandbox.io">CodeSandbox</a> desktop app for Windows, macOS and Linux.
 
 ***
 
